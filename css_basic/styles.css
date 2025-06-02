@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 230, 230);
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+
+article {
+    flex: 2;
+    overflow-y: auto;
+        p {
+        text-decoration: underline; 
+        text-decoration-color: red;
+        }
+}
+
+aside {
+    flex: 1;
+    overflow-y: auto;
+}
+
+h1 {
+    border: double;
+}
