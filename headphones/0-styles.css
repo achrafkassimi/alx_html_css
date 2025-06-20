@@ -1,7 +1,7 @@
 *{
   color: #071629;
   text-decoration: none;
-  max-width: 1440px;
+  /* max-width: 1440px; */
   font-family: 'Source Sans Pro', sans-serif;
   list-style: none;
   text-align: center;
@@ -22,9 +22,9 @@ header{
   height: fit-content;
   height: 800px;
   background-image: url('resource/images/headphones_hero_1.jpg');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size:auto;
+  /* background-repeat: no-repeat;
+  background-position: center; */
+  /* background-size:auto; */
 }
 
 nav{
@@ -32,8 +32,8 @@ nav{
   align-items: center;
   justify-content: space-between;
   height: 32px;
-  width: 1000px;
-  margin-top: 27.76px;
+  width: 1040px;
+  margin-top: 28px;
 }
 .nav-bar{
   display: flex;
